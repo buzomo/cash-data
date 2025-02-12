@@ -5,6 +5,11 @@
     "description": "ホットコーヒー"
   },
   {
+    "date": "2025-02-12",
+    "amount": -800,
+    "description": "白い担々麺"
+  },
+  {
     "date": "2025-02-10",
     "amount": -390,
     "description": "医者"
