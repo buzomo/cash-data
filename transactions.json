@@ -1,5 +1,10 @@
 [
   {
+    "date": "2025-02-12",
+    "amount": -100,
+    "description": "ホットコーヒー"
+  },
+  {
     "date": "2025-02-10",
     "amount": -390,
     "description": "医者"
