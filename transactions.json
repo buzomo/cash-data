@@ -5,6 +5,11 @@
     "description": "コストコ年会費"
   },
   {
+    "date": "2025-02-17",
+    "amount": 10210,
+    "description": "立て替え金"
+  },
+  {
     "date": "2025-02-14",
     "amount": -13300,
     "description": "自転車修理"
