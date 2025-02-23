@@ -25,6 +25,11 @@
     "description": "レコードショップ"
   },
   {
+    "date": "2025-02-23",
+    "amount": -5741,
+    "description": "残高調整"
+  },
+  {
     "date": "2025-02-21",
     "amount": -390,
     "description": "医者"
