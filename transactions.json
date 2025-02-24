@@ -5,6 +5,11 @@
     "description": "映画のパンフレット"
   },
   {
+    "date": "2025-02-24",
+    "amount": 4200,
+    "description": "かまめし"
+  },
+  {
     "date": "2025-02-23",
     "amount": -1200,
     "description": "ピッっあー"
