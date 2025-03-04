@@ -1,5 +1,10 @@
 [
   {
+    "date": "2025-03-04",
+    "amount": -3760,
+    "description": "医者"
+  },
+  {
     "date": "2025-02-28",
     "amount": -1300,
     "description": "散髪"
