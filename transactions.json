@@ -5,6 +5,11 @@
     "description": "おつかい"
   },
   {
+    "date": "2025-03-05",
+    "amount": 100,
+    "description": "残高調整"
+  },
+  {
     "date": "2025-03-04",
     "amount": -3760,
     "description": "医者"
