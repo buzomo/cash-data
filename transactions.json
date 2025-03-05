@@ -1,5 +1,10 @@
 [
   {
+    "date": "2025-03-05",
+    "amount": 400,
+    "description": "おつかい"
+  },
+  {
     "date": "2025-03-04",
     "amount": -3760,
     "description": "医者"
