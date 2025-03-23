@@ -4,5 +4,11 @@
     "manufacturer": "kanpy",
     "store": "ベイシア",
     "price": 322
+  },
+  {
+    "productName": "野菜のうまみが詰まったポトフ",
+    "manufacturer": "セブンプレミアム",
+    "store": "セブンイレブン",
+    "price": 208
   }
 ]
