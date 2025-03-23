@@ -176,8 +176,8 @@
   },
   {
     "date": "2025-02-06",
-    "amount": 41800,
-    "description": "残高調整"
+    "amount": -41800,
+    "description": "初期値"
   },
   {
     "date": "2025-02-06",
