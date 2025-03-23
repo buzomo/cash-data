@@ -24,6 +24,12 @@
     "price": 188
   },
   {
+    "productName": "ビーフシチュー",
+    "manufacturer": "トップバリュ",
+    "store": "イオン",
+    "price": 494
+  },
+  {
     "productName": "フライドチキン",
     "manufacturer": "ハーズ",
     "store": "ハーズ",
