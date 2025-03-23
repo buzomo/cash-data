@@ -12,6 +12,12 @@
     "price": 188
   },
   {
+    "productName": "フライドチキン",
+    "manufacturer": "ハーズ",
+    "store": "ハーズ",
+    "price": 192
+  },
+  {
     "productName": "レンジでごちそう 濃厚ビーフシチュー",
     "manufacturer": "伊藤ハム",
     "store": "ベイシア",
