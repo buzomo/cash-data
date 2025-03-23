@@ -1,5 +1,10 @@
 [
   {
+    "date": "2025-03-23",
+    "amount": 1290,
+    "description": "残高調整"
+  },
+  {
     "date": "2025-03-21",
     "amount": -3790,
     "description": "医者"
