@@ -1,5 +1,10 @@
 [
   {
+    "date": "2025-03-25",
+    "amount": 400,
+    "description": "買い物"
+  },
+  {
     "date": "2025-03-23",
     "amount": 1290,
     "description": "残高調整"
