@@ -5,6 +5,11 @@
     "description": "医者"
   },
   {
+    "date": "2025-03-31",
+    "amount": -100,
+    "description": "てすと"
+  },
+  {
     "date": "2025-03-28",
     "amount": -1300,
     "description": "散髪"
