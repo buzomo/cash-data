@@ -106,5 +106,11 @@
     "manufacturer": "フェレロ",
     "store": "ベイシア",
     "price": 538
+  },
+  {
+    "productName": "雪印北海道100 マスカルポーネ",
+    "manufacturer": "雪印メグミルク",
+    "store": "ベイシア",
+    "price": 312
   }
 ]
