@@ -94,5 +94,11 @@
     "manufacturer": "セブンイレブン",
     "store": "セブンイレブン",
     "price": 240
+  },
+  {
+    "productName": "グリーンスムージー",
+    "manufacturer": "セブンカフェ",
+    "store": "セブンイレブン",
+    "price": 300
   }
 ]
