@@ -100,5 +100,11 @@
     "manufacturer": "セブンカフェ",
     "store": "セブンイレブン",
     "price": 300
+  },
+  {
+    "productName": "ヌテラ200",
+    "manufacturer": "フェレロ",
+    "store": "ベイシア",
+    "price": 538
   }
 ]
