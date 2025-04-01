@@ -1,6 +1,6 @@
 [
   {
-    "productName": "カオマンガイセット！",
+    "productName": "カオマンガイセット",
     "manufacturer": "アライドコーポレーション",
     "store": "イオン",
     "price": 300
@@ -88,5 +88,11 @@
     "manufacturer": "セブンプレミアム",
     "store": "セブンイレブン",
     "price": 208
+  },
+  {
+    "productName": "ザクチキ　漆黒のWペッパー",
+    "manufacturer": "セブンイレブン",
+    "store": "セブンイレブン",
+    "price": 240
   }
 ]
