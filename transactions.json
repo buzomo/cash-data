@@ -1,8 +1,13 @@
 [
   {
+    "date": "2025-04-09",
+    "amount": -100,
+    "description": "クレーンゲーム"
+  },
+  {
     "date": "2025-03-31",
     "amount": -3690,
-    "description": "医者"
+    "description": "医者っ"
   },
   {
     "date": "2025-03-28",
