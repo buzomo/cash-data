@@ -10,6 +10,11 @@
     "description": "牛乳"
   },
   {
+    "date": "2025-04-09",
+    "amount": -1,
+    "description": "test"
+  },
+  {
     "date": "2025-03-31",
     "amount": -3690,
     "description": "医者っ"
