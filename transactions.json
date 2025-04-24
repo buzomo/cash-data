@@ -5,6 +5,11 @@
     "description": "ドーナツ、牛乳"
   },
   {
+    "date": "2025-04-24",
+    "amount": -120,
+    "description": "ネクター(伊藤園）"
+  },
+  {
     "date": "2025-04-18",
     "amount": -460,
     "description": "医者"
