@@ -1,5 +1,10 @@
 [
   {
+    "date": "2025-05-07",
+    "amount": -1000,
+    "description": "診断書(実費）"
+  },
+  {
     "date": "2025-05-06",
     "amount": 220,
     "description": "ダイソー"
