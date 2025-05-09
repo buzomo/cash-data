@@ -10,6 +10,11 @@
     "description": "食パン1斤"
   },
   {
+    "date": "2025-05-09",
+    "amount": 650,
+    "description": "残高調整"
+  },
+  {
     "date": "2025-05-08",
     "amount": -1000,
     "description": "靴下"
